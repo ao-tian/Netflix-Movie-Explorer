@@ -63,22 +63,22 @@ Developed by [Ao Tian](https://github.com/ao-tian)
 ### Homepage
 The landing page features a modern design with animated backgrounds and clear call-to-action sections.
 
-![Homepage](./image/homepage.png)
+![Homepage](./image/new_homepage.png)
 
 ### Registration & Login
 Secure authentication interface supporting both email/password and Google Sign-In options.
 
-![Register](./image/register.png)
+![Register](./image/new_register.png)
 
 ### Movie Search & Discovery
 Advanced search interface with autocomplete, genre sidebar, and filtering options. Browse popular movies or search for specific titles.
 
-![Search](./image/search.png)
+![Search](./image/new_search.png)
 
 ### Movie Details
 Comprehensive movie information modal featuring trailers, cast information, similar movies, and interactive controls for cart, watchlist, and inventory management.
 
-![Description](./image/description.png)
+![Description](./image/new_description.png)
 
 ---
 
